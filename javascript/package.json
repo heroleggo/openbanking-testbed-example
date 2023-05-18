@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "test application for openbanking API call",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Youngwoong You <h3r0.y0u@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8"
+  }
+}
